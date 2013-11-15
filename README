@@ -1,8 +1,9 @@
 POE-Component-IRC-Plugin-Fortune
 
-The module brings all the joys of the C<fortune> *nix program to IRC. You B<do> need to have
-the actual program installed. Future versions may incorporate the L<Fortune> module to
-be used instead; give me a shout if you would like that.
+The module brings all the joys of the C<fortune> *nix program to IRC.
+You B<do> need to have the actual program installed. Future versions may
+incorporate the L<Fortune> module to be used instead; give me a shout
+if you would like that.
 
 This module is a L<POE::Component::IRC> plugin which uses
 L<POE::Component::IRC::Plugin> for its base.
